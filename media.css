@@ -1,0 +1,224 @@
+@media (min-width:1400px){
+    .container{
+        max-width:1320px;
+    }
+}
+@media (max-width:1399px){
+    .container{
+        max-width:100%;
+    }
+    .card-bg{
+        width: 300px;
+        height: 340px;
+    }
+    .service::after{
+        width: 280px;
+        left: 38.2%;
+    }
+    .design1::after{
+        left: 26%;
+    }
+    .design2::after{
+        left: 24%;
+    }
+    .design3::after{
+        left: 14%;
+    }
+    .design4::after{
+        left: 18%;
+    }
+    .design5::after{
+        left: 18%;
+    }
+    .design6::after{
+        left: 10%;
+    }
+    .width{
+        width: 310px;
+        height: 210px;
+    }
+    .plans::after{
+        width: 205px;
+        left: 39%;
+    }
+    .instagram{
+        margin-left: 10%;
+    }
+    .about-query{
+        width: 320px;
+    }
+    .message{
+        margin-left: 140px;
+    }
+}
+@media (max-width:1199px){
+    .container{
+        max-width:960px;
+    }
+    .image-about2 img{
+        width: 280px;
+        height: 370px
+    }
+    .card-bg{
+        width: 230px;
+        height: 340px;
+    }
+    .service::after{
+        width: 290px;
+        left: 38.2%;
+        margin-top: 7%;
+    }
+    .design1::after{
+        left: 17%;
+        margin-top: 13%;
+    }
+    .design2::after{
+        left: 15%;
+        margin-top: 13%;
+    }
+    .design3::after{
+        left: 1%;
+        margin-top: 13%;
+    }
+    .design4::after{
+        left: 7%;
+        margin-top: 13%;
+    }
+    .design5::after{
+        left: 7%;
+        margin-top: 13%;
+    }
+    .design6::after{
+        left: 15%;
+        margin-top: 13%;
+    }
+    .width{
+        width: 301px;
+        height: 201px;
+    }
+    .plans::after{
+        width: 200px;
+        left: 39%;
+    }
+    .about-query{
+        width: 230px;
+    }
+    .message{
+        margin-left: 50px;
+    }
+    .instagram{
+        margin-left: 0%;
+    }
+}
+@media (max-width:991px){
+    .container{
+        max-width:720px;
+    }
+    .image-about2{
+        padding-left: 0%;
+    }
+    .image-about2 img{
+        width: 250px;
+        height: 320px;
+    }
+    .about2{
+        padding-left: 2%;
+    }
+    .information2{
+        padding-left: 2%;
+    }
+    .service::after{
+        width: 260px;
+        left: 38.5%;
+    }
+    .width{
+        width: 225px;
+        height: 180px;
+    }
+    .plans::after{
+        width: 180px;
+        left: 37%;
+        margin-top: 50px;
+    }
+}
+@media (max-width:767px){
+    .container{
+        max-width:540px;
+    }
+    .image-about2 img{
+        width: 220px;
+        height: 280px;
+    }
+    .image-about2{
+        padding-top: 0%;
+        padding-left: 9%;
+    }
+    .about-name2{
+        padding-top: 7px;
+    }
+    .about-birthday2{
+        padding-top: 7px;
+    }
+    .about-who2{
+        padding-top: 15px;
+    }
+    .instagram2{
+        margin-top: 1rem;
+    }
+    .linkdin2 ,.twitter2, .facebook2{
+        margin-top: 1rem;
+    }
+    .service{
+        padding-top: 7%;
+        padding-left: 22%;
+    }
+    .service::after{
+        width: 222px;
+        left: 22.5%;
+        margin-top: 9%;
+    }
+    .card-bg{
+        margin: 25px auto;
+    }
+    .backgroundService{
+        height: 2500px;
+    }
+    .width{
+        width: 400px;
+        height: 250px;
+    }
+    .plans::after{
+        width: 150px;
+        left: 31%;
+        margin-top: 40px;
+    }
+    .backgroundPortfolio{
+        height: 2000px;
+    }
+    .about-query{
+        width: 100%;
+        margin-top: 22px;
+    }
+    .message{
+        margin-left: 50px;
+    }
+    .instagram{
+        margin-left: 0%;
+    }
+    .a-line::before{
+        top: calc(100% + 10px);
+    }
+    .a-line::after{
+        top: calc(100% + 10px);
+    }
+}
+@media (max-width:575px)
+{
+    .container{
+        max-width:100%;
+    }
+    .width{
+        width: 350px;
+        height: 210px;
+    }
+}
